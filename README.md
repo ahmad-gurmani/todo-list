@@ -1,2 +1,2 @@
 # Todo-list
-Simple todo list app built with HTML, CSS, and JavaScript for managing daily tasks with intuitive user interface.
+This is a simple todo list project built using HTML, CSS, and JavaScript. With this application, users can create, edit, and delete tasks to manage their daily to-do lists. The user interface is designed to be intuitive and user-friendly, with a responsive design that works on desktop and mobile devices. This project is a great example for those who are new to web development and want to practice their skills in HTML, CSS, and JavaScript.
